@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hola, soy Jose 👋
 
-<!--
-**joser1624/joser1624** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Ingeniero de Sistemas en formación  
+💻 Interesado en Backend, IA y Automatización  
+🚀 Construyendo proyectos reales  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tecnologías
+- JavaScript (Node.js)
+- Python
+- PostgreSQL
+- Linux
+
+---
+
+## 🔥 Proyectos
+- Sistema de ventas (Node + PostgreSQL)
+- Automatización de mapas (Python + GIS)
+- Bot de Telegram con IA
+
+---
+
+## 📊 Estadísticas
